@@ -1,4 +1,3 @@
-# dio-Desafio-GitGithub
-Desafio referente ao projeto GIT/GITHUB
+# Projetos DIO
+Alguns de meus projetos de aprendizagem durante estudos na plataforma DIO
 
-## Primeiros Passos
