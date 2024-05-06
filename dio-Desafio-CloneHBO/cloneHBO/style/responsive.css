@@ -1,0 +1,20 @@
+@media screen and (max-width: 700px) {
+  .banner .content {
+    margin-top: 100px;
+  }
+  .perfil .name {
+    display: none;
+  }
+  .perfil .char {
+    margin-right: 30px;
+  }
+  .content .title {
+    font-size: 30px;
+  }
+  .content-subtitle {
+    font-size: 12px;
+  }
+  .content p {
+    font-size: 13px;
+  }
+}
